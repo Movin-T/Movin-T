@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there 👋
+![Hello There](./hello-there.gif)
 
 ###
 
