@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Full-stack developer based in Colombo, Sri Lanka 🇱🇰<br><br> Proficient in JavaScript and JavaScript based frameworks. But always eager to try out  new and interesting technologies 🧐</p>
+<p align="left">Full-stack developer based in Colombo, Sri Lanka 🇱🇰<br><br> Proficient in JavaScript/TypeScript and JavaScript based frameworks. But always eager to try out  new and interesting technologies 🧐</p>
 
 ###
 
